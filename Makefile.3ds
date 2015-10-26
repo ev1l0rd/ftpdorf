@@ -33,8 +33,8 @@ DATA     := data
 INCLUDES := include
 
 APP_TITLE       := ftpDorf
-APP_DESCRIPTION := Urist McHauler cancels drink: Went insane
-APP_AUTHOR      := mtheall (ported by Ev1l0rd)
+APP_DESCRIPTION := "Urist McHauler cancels drink, Went insane"
+APP_AUTHOR      := "mthea, modified by Ev1l0rd"
 ICON            := ftpdorf.png
 
 #---------------------------------------------------------------------------------
